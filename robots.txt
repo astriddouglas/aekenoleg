@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shetheiso.zyjbml.cn/sitemap.xml
